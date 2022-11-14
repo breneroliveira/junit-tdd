@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Desafio prático sobre a implementação de testes unitários utilizando JUnit e TDD (Test-Driven Development).
+Implementação de testes unitários utilizando JUnit e TDD (Test-Driven Development).
 
 # Tecnologias utilizadas
 ## Metodolodias
