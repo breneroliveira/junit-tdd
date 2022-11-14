@@ -1,5 +1,5 @@
 # Desafio TDD
-[![NPM](https://img.shields.io/npm/l/react)](https://git.gft.com/boer/desafio-tdd/-/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/breneroliveira/junit-tdd/blob/master/LICENSE) 
 
 # Sobre o projeto
 
@@ -19,20 +19,20 @@ Desafio prático sobre a implementação de testes unitários utilizando JUnit e
 Para executar os testes com TDD e JUnit, basta acessar o diretório indicado na imagem.
 <span>
     <br>
-    <img src="/uploads/f486603649295ac7cba044640ea1c4a9/TesteComTDD.png" alt="Arquivo de execução dos testes">
+    ![TesteComTDD](https://user-images.githubusercontent.com/73718076/201711583-3285eed9-084a-4182-8034-21ae724ebf0b.png)
 </span>
 
 Ademais, para a execução do exercícios utilizando Main, é possível acessar o arquivo pelo seguinte caminho mostrado abaixo.
 <span>
     <br>
-    <img src="/uploads/2a035aede3e1044feff27b7cf70f5138/MainDosExerciciosPOO.png" alt="Arquivo de execução dos exercícios">
+    ![MainDosExerciciosPOO](https://user-images.githubusercontent.com/73718076/201711703-34384ef3-4613-4faf-9bb4-7518190bd5ad.png)
 </span>
 
 ## Desafio bônus - DojoPuzzles
 <span>
-    <img src="/uploads/ea2a5ec4e21b3dd44376430be47a589b/EnunciadoDesafioBonus.png" alt="FizzBuzz" width="700px">
+    <img src="https://user-images.githubusercontent.com/73718076/201712169-2ebbb91b-6b9e-4914-a2a4-931aeb4c08bb.png" alt="FizzBuzz" width="700px">
 </span>
 
 # Autor
 
-Brener Augusto de Oliveira
+<a href="https://www.linkedin.com/in/brener-augusto-de-oliveira/" target="_blank">Brener Augusto de Oliveira</a>
